@@ -1,0 +1,14 @@
+/*
+Theme Name:     Assignment 4
+Description:    ux221
+Author:         Rathesa
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+/* Body Styles */
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #D2F7C8;
+    color: #333333;
+}
