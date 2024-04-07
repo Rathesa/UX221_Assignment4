@@ -88,3 +88,9 @@
 [06-Apr-2024 23:10:29 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
 [06-Apr-2024 23:39:13 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
 [07-Apr-2024 00:25:35 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[07-Apr-2024 00:56:38 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php on line 550
+[07-Apr-2024 00:56:59 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php on line 550
+[07-Apr-2024 00:57:07 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/wpforms-lite/src/Forms/Locator.php on line 1329
+[07-Apr-2024 00:57:53 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php on line 550
+[07-Apr-2024 00:58:07 UTC] PHP Fatal error:  Out of memory (allocated 25165824) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/wpforms-lite/src/Forms/Locator.php on line 1329
+[07-Apr-2024 00:59:23 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
