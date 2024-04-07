@@ -3,5 +3,10 @@ class CopyrightYear extends HTMLElement{
         this.innerHTML = new Date().getFullYear();
     }
 }
+class TwoSidedMarkets extends HTMLElement {
+  connectedCallback() {
+    this.innerHTML = `<a href="sewing-guide">Sewing Guide</a>&nbsp;<a href="products">Products</a>`;
+  }
+}
 
-customElements.define("x-year", CopyrightYear);
+customElements.define('x-twosided', TwoSidedMarkets);
